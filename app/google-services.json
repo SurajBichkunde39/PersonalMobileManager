@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "575747498350",
+    "project_id": "personalmobilemanager",
+    "storage_bucket": "personalmobilemanager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575747498350:android:57a52793b652ac4f8e217f",
+        "android_client_info": {
+          "package_name": "com.personalmobilemanager.mobilemanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575747498350-thj7n7k263oaujp69ukh20m609u8mc06.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.personalmobilemanager.mobilemanager",
+            "certificate_hash": "1801656ebb51e35c094663bb1d0e3b322e10e8ca"
+          }
+        },
+        {
+          "client_id": "575747498350-evji3ofrabrd5lnnaffj5gdafh69uepa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTCNsU60vIXltav2jbjSz_zPIXE9QnlhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575747498350-evji3ofrabrd5lnnaffj5gdafh69uepa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
